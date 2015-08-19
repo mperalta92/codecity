@@ -13,6 +13,7 @@ import org.terasology.world.generation.WorldRasterizer;
 /**
  * Rasterizes buildings using the information provided by CodeCityFacet
  */
+// este comentario es super interesante
 public class CodeCityBuildingRasterizer implements WorldRasterizer {
     private Block stone;	
 
